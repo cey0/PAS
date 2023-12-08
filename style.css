@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=REM&family=Roboto+Slab:wght@500&display=swap');
+body{
+    background-color: #F2FFE9 ;
+}
+.navbar{
+    background-color: #A6CF98;
+}
+*{
+    font-family: 'REM';
+}
+.judul{
+    width: 300px;
+height: 50px;
+flex-shrink: 0;
+}
+.judul h3{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.btn{
+    width: 150px;
+height: 40px;
+flex-shrink: 0;
+}
+footer{
+    background-color:#557C55;
+    margin-top: 944px;
+}
+.kotak{
+    background-color: #557C55;
+    width: 529px;
+height: 497px;
+flex-shrink: 0;
+}
+.label{
+    font-size: 20px;
+    color: white;
+}
+.input{
+    width: 27rem;
+height: 35px;
+flex-shrink: 0;
+}
+.button{
+    width: 482px;
+height: 50px;
+flex-shrink: 0;
+}
